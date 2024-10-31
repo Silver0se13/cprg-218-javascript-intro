@@ -1,0 +1,13 @@
+#light_off{
+    display:none;
+}
+
+body{
+    background-color: #000000;
+    color: #333333;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
